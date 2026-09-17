@@ -1,0 +1,39 @@
+    1  whoami
+    2  who
+    3  id
+    4  free -h
+    5  df -h
+    6  w
+    7  uname -a
+    8  cat/proc/cpuinfo
+    9  cat /proc/cpuinfo
+   10  cat /proc/partition
+   11  cat /proc / partitions
+   12  cat/proc/partitions
+   13  cat /proc/partitions
+   14  ps aux
+   15  top
+   16  q
+   17  history
+   18  exit
+   19  ssh-keygen -t ed25519
+   20  ls -l
+   21  pwd
+   22  ls -la
+   23  cd .ssh
+   24  ls -l
+   25  cat id_ed25519.pub
+   26  cd ..
+   27  mkdir clase3
+   28  ls -l
+   29  cd clase3
+   30  git clone git@github.com:mati954/Clase3Arq_Vallejos.git
+   31  ls -l
+   32  cd Clase3Arq_Vallejos/
+   33  pwd
+   34  ls -l
+   35  cat README.md 
+   36  ls -la
+   37  git status
+   38  history 
+   39  history > historial.txt
